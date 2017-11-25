@@ -1,0 +1,296 @@
+		#topbar {
+		   width:2000px;
+		   margin:0 auto;
+		   height:40px;
+		}
+
+		body {
+			padding:0;
+			margin:0;
+			font-family:Helvetica, Arial, sans-serif;
+		}
+
+		#logo {
+			margin-top:-22px;
+			margin-left:7px;
+			width:100px;
+			float:left;
+			margin-right:2px;
+		}
+
+		.top-sec {
+			float:left;
+			border-left: 1px #cccccc solid;
+			height:150%;
+			margin-left:3px;
+			margin-right:3px;
+		}
+
+		#signin-img {
+			width:24px;
+			margin-top:16px;
+			margin-left:4px;
+			float:left;
+		}
+
+		#text {
+			font-weight: bold;
+			font-size: 100%;
+			margin-top: 18px;
+			margin-left: 10px;
+			float: left;
+			margin-right:6px;
+		}
+
+		#arrow {
+			width:3%;
+			margin-top:23px;
+			margin-left:20px;
+		}
+
+		#search-box {
+			float:left;
+			border: none;
+			background-color: #A9A9A9;
+			margin: 8px 0px 5px 5px;
+			font-weight:bold;
+			font-size: 15px;
+			padding: 5px;
+		}
+
+		#sign {
+			margin: 0 12px 0 10px;
+		}
+
+		#glass {
+			float:left;
+			margin-top:7px;
+			width:30px;
+		}	
+
+		.clear {
+			clear:both;
+		}
+
+		#menu-bar-container {
+			background-color:#BB1919;
+			width:100%;
+			height:70px;
+			position:relative;
+			top:-20px;
+		}
+		
+		#menu-bar {
+			width:2000px;
+			margin-left: 15px;	
+
+		}
+		
+		h1 {
+			padding:0;
+			margin:0;
+			color:white;
+			font-size:40px;
+			font-weight:normal;
+			padding-top:10px;
+		}
+
+		#menu-bar-2-container {
+			background-color: #A91717;
+			width:100%;
+			height:40px;
+			position:relative;
+			top:-20px;		
+		}
+
+		#menu-bar-2 {
+			width:2000px;
+			margin-left:15px;
+		}
+
+		#menu-bar-2 a {
+			color:white;
+			text-decoration:none;
+			padding: 0 10px;
+			border-right: 1px solid #BB4545;
+			font-size:14px;
+			position:relative;
+			top:10px;
+		}
+	
+		#menu-bar-2 a:hover{
+			text-decoration:underline;
+		}
+
+		.no-border {
+			border: none !important;
+		}
+	
+		#menu-arrow {
+			width:10px;
+			position:relative;
+			top:10px;
+		}
+
+		#page-container {
+			width:1000px;
+			margin: 0 auto;
+		}
+
+		h2{
+			font-weight:normal;
+			margin-top:40px;
+			margin-left:16px;
+			font-size:24px;
+			border-bottom:3px solid #a91717;
+			width:122px;
+		}
+
+		h3 a {
+			color:black;
+			font-size:30px;
+			text-decoration:none;
+		}
+		
+		h3 a:hover{
+			color:#1167a8;
+		}
+
+		#article-summary{
+			float:left;
+			color:#5a5a5a;
+			width:260px;	
+		}
+
+		#timer-icon {
+			float:left;
+			width:6%;
+			margin-right: 6px;
+			position:relative;
+			top:2px;
+		}
+
+		#topic-link {
+			color:brown;
+			font-weight:normal;
+			border-left:1px solid #CCCCCC;
+			height:4px;
+			text-decoration:none;
+			padding:10px;
+		}
+
+		#article-container {
+			float:left;
+			width:700px;
+			border-right:1px solid #CCCCCC;
+			padding: 15px;
+		}
+
+		#article-summary a:hover {
+			color:#1167a8 ;
+			text-decoration:underline;
+		}
+
+		#date {
+			float:left;
+			padding-right:10px;
+		}
+	
+		#asda {
+			float:left;
+			width:350px;
+			margin-left:20px;
+		}
+
+		#article-hr {
+			border-top: 1px solid #a91717;
+			width:50px;
+		}
+
+		.article-link {
+			color:black;
+			text-decoration:none;		
+		}
+
+		#watch-listen {
+			float:left;
+			margin-left:20px;
+			width:320px;
+			
+		}
+
+		h4 {
+			font-weight:normal;
+			font-size:20px;
+		}
+
+		.article-side-image {
+			float: left;
+			width: 120px;
+			margin-right:10px;
+			margin-bottom: 10px;
+		}
+
+		.watch-listen-link {
+			font-weight: bold;
+			font-size: 18px;
+			color: black;
+			text-decoration: none;
+		}
+
+		.watch-listen-link:hover {
+			color: #1167a8;
+		}
+
+		#article-timer-icon {
+			width:14px;
+			position: relative;
+			top: -7px;
+		}
+
+		.watch-listen-link1 {
+			font-weight: bold;
+			font-size: 18px;
+			color: black;
+			text-decoration: none;
+			position:relative;
+			top:-16px;
+		}
+
+		#article-date {
+			color:grey;
+			position: relative;
+			left:5px;
+			top:-8px;
+			
+		}
+
+		#article-date1 {
+			color:grey;
+			position: relative;
+			left:5px;
+			top:-25px;
+			
+		}
+
+		#article-timer-icon1 {
+			width:14px;
+			position: relative;
+			top: -25px;
+		}
+
+		#article-date2 {
+			color:grey;
+			position: relative;
+			left:5px;
+			top:-25px;
+			
+		}
+
+		#article-timer-icon2 {
+			width:14px;
+			position: relative;
+			top: -25px;
+			margin-left:110px;
+		}
+
