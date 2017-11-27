@@ -215,7 +215,7 @@
 		#watch-listen {
 			float:left;
 			margin-left:20px;
-			width:320px;
+			width:350px;
 			
 		}
 
@@ -257,6 +257,15 @@
 			top:-16px;
 		}
 
+		.watch-listen-link2 {
+			font-weight: bold;
+			font-size: 18px;
+			color: black;
+			text-decoration: none;
+			position:relative;
+			top:-33px;
+		}
+
 		#article-date {
 			color:grey;
 			position: relative;
@@ -282,15 +291,24 @@
 		#article-date2 {
 			color:grey;
 			position: relative;
-			left:5px;
-			top:-25px;
+			left:20px;
+			top:-40px;
 			
 		}
 
 		#article-timer-icon2 {
 			width:14px;
 			position: relative;
-			top: -25px;
+			top: -40px;
+			left: 18px;
 			margin-left:110px;
+		}
+
+		.watch-listen-link1:hover {
+			color: #1167a8;
+		}
+
+		.watch-listen-link2:hover {
+			color: #1167a8;
 		}
 
